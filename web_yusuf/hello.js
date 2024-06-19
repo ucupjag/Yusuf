@@ -1,1 +1,0 @@
-documend.write("javasacript itu mudah");
